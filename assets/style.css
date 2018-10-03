@@ -1,0 +1,16 @@
+nav {
+    background: #cccccc;
+}
+
+#content {
+    height: 100vh;
+    background: #dddddd;
+}
+
+header {
+    background: #aaaaaa
+}
+
+body {
+    margin: 0;
+}
